@@ -1,7 +1,7 @@
 # SOKOBAN
 ## SOKOBAN in Java, written without the use classes
 
-### it was a course requirement to not use classes and only utilize functional programming in Java
+### It was a course requirement to not use classes and only utilize functional programming in Java
 
 **To run**
 
